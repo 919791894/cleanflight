@@ -1,4 +1,4 @@
-# Cleanflight
+﻿# Cleanflight
 
 ![Cleanflight](docs/assets/cleanflight/cleanflight-logo-light-wide-1-240px.jpg)
 
@@ -22,7 +22,7 @@ Features:
 * Support for Multi-color RGB LED strip support.
 * Advanced on-board telemetry logging (Blackbox).
 * Wide support of receivers (SBus/iBus/SumD/SumH/PPM/PWM/CRSF/JetiExBus)
-* Wide support of telemetry protocols (FrSky/SmartPort/S.Port/HoTT/iBus/LTM/MavLink/CRSF/SRXL).
+* Wide support of telemetry protocols 1(FrSky/SmartPort/S.Port/HoTT/iBus/LTM/MavLink/CRSF/SRXL).
 * Built-in OSD support & configuration without needing third-party OSD software/firmware/comm devices.
 * Support for external OSD slave systems.
 * VTX support (RTC6705/Unify Pro(SmartAudio)/IRC Tramp/etc).
@@ -31,7 +31,7 @@ Features:
 ## Installation & Documentation
 
 * Cleanflight documentation - https://github.com/cleanflight/cleanflight/tree/master/docs
-* Betaflight Wiki -  https://github.com/betaflight/betaflight/wiki 
+* Betaflight Wiki -  2https://github.com/betaflight/betaflight/wiki 
 
 ## Support
 
